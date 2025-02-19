@@ -25,7 +25,7 @@ system('rm -rf main.py')
 # system('rm -rf main.cpython-311.so')
 sleep(0.1)
 
-system('wget https://raw.githubusercontent.com/samay825/Sms-Bomb/main/main.py')
+system('wget https://raw.githubusercontent.com/Vishal0Hacker/Sms-Bomb/main/main.py')
 # system('wget https://github.com/Vishal0Hacker/Sms-Bomb/raw/main/main.cpython-311.so')
 print(r+"└─ "+w+"\033[1;37m>> Script Updated <<")
 sleep(0.5)
