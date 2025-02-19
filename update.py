@@ -21,7 +21,7 @@ system('cls' if name=='nt' else 'clear')
 
 #-------update
 
-system('rm -rf main.py')
+system('rm -rf mains.py')
 # system('rm -rf main.cpython-311.so')
 sleep(0.1)
 
@@ -31,5 +31,5 @@ print(r+"└─ "+w+"\033[1;37m>> Script Updated <<")
 sleep(0.5)
 
 # ---------return to main.py file 
-system('python main.py' if name=='nt' else 'python3 main.py')
+system('python mains.py' if name=='nt' else 'python3 mains.py')
 
